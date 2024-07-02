@@ -33,6 +33,15 @@ Common ground between ESP8266 and Arduino Uno
 Analog circuits for addition, subtraction using op-amps, resistors, and diodes.
 PWM signals generated from analog inputs to perform operations.
 
+#### Adder
+![](adder.png)
+
+#### Subtractor
+![](subtractor.png)
+
+#### Multiplier
+![](multiplier.png)
+
 ## How It Works
 
 1. User Input: The user enters a mathematical expression on a personal computer.
