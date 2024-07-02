@@ -34,13 +34,13 @@ Analog circuits for addition, subtraction using op-amps, resistors, and diodes.
 PWM signals generated from analog inputs to perform operations.
 
 #### Adder
-![](adder.png)
+![](adder.jpg)
 
 #### Subtractor
-![](subtractor.png)
+![](subtractor.jpg)
 
 #### Multiplier
-![](multiplier.png)
+![](multiplier.jpg)
 
 ## How It Works
 
