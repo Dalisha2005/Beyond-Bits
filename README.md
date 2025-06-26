@@ -9,7 +9,7 @@ This project aims to design and implement a system that mimics the functionality
 - Wireless Input: Inputs can be given wirelessly over a Wi-Fi connection from a phone or laptop, handled by the ESP8266 module.
 - Arduino Integration: Input expressions are parsed and evaluated using the Arduino Stack Library and communicated with analog computation circuits.
 - Display Output: Calculated results are displayed on the user's personal computer screen via the serial monitor.
-- 
+
 ## Technical Details
 
 ### Hardware Components
@@ -31,7 +31,7 @@ Common ground between ESP8266 and Arduino Uno
 
 ### Analog Circuits for Arithmetic Operations:
 Analog circuits for addition, subtraction using op-amps, resistors, and diodes.
-PWM signals generated from analog inputs to perform operations.
+PWM signals are generated from analog inputs to perform operations.
 
 #### Adder
 ![](adder.jpg)
